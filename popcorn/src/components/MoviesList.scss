@@ -1,0 +1,14 @@
+@import '../scss/main.scss'; 
+
+.movies-list {
+    ul {
+        li {
+            background-color: $grey;
+            padding: 10px 20px;
+            margin: 10px 0;
+            h3, p {
+                margin: 0;
+            }
+        }
+    }
+}
